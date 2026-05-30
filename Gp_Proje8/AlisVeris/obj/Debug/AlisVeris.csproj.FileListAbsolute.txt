@@ -1,0 +1,15 @@
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\bin\Debug\AlisVeris.exe.config
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\bin\Debug\AlisVeris.exe
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\bin\Debug\AlisVeris.pdb
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\obj\Debug\AlisVeris.csprojAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\obj\Debug\AlisVeris.frmAna.resources
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\obj\Debug\AlisVeris.frmAlisVeris.resources
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\obj\Debug\AlisVeris.Properties.Resources.resources
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\obj\Debug\AlisVeris.csproj.GenerateResource.cache
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\obj\Debug\AlisVeris.csproj.CoreCompileInputs.cache
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\obj\Debug\AlisVeris.csproj.CopyComplete
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\obj\Debug\AlisVeris.exe
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\obj\Debug\AlisVeris.pdb
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\obj\Debug\AlisVeris.frmMusteriler.resources
+C:\Users\YunusEmre\Desktop\GP Projeler\Gp_Proje8\AlisVeris\obj\Debug\AlisVeris.frmUrunler.resources
